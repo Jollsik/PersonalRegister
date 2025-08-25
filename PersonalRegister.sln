@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalRegister", "PersonalRegister\PersonalRegister.csproj", "{2D2AB6BB-BFAC-4D1F-8439-C38519C02036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalRegisterTests", "PersonalRegisterTests\PersonalRegisterTests.csproj", "{9B2ECCD4-44C3-4313-AD66-1394560AB042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D2AB6BB-BFAC-4D1F-8439-C38519C02036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2AB6BB-BFAC-4D1F-8439-C38519C02036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2AB6BB-BFAC-4D1F-8439-C38519C02036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2AB6BB-BFAC-4D1F-8439-C38519C02036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2ECCD4-44C3-4313-AD66-1394560AB042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2ECCD4-44C3-4313-AD66-1394560AB042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2ECCD4-44C3-4313-AD66-1394560AB042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2ECCD4-44C3-4313-AD66-1394560AB042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C939C6D-EEFB-4497-8824-9D822B11846C}
+	EndGlobalSection
+EndGlobal
